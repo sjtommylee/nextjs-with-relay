@@ -13,13 +13,18 @@
     "@types/node": "^16.11.7",
     "@types/react-relay": "^11.0.2",
     "@types/relay-runtime": "^12.0.0",
+    "babel-plugin-relay": "^12.0.0",
+    "graphql": "^16.0.1",
     "next": "12.0.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-relay": "^12.0.0",
+    "react-relay-network-modern": "^6.2.0",
+    "react-relay-network-modern-ssr": "^1.4.0",
     "relay-compiler": "^12.0.0",
     "relay-compiler-language-typescript": "^14.3.0",
     "relay-config": "^12.0.0",
+    "relay-hooks": "^6.0.0",
     "relay-runtime": "^12.0.0"
   },
   "devDependencies": {
@@ -29,4 +34,3 @@
     "typescript": "4.4.4"
   }
 }
-
